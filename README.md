@@ -1,6 +1,6 @@
 # codecrafters-redis-go
 
-A Redis clone for handling commands like `PING`, `SET` and `GET`.
+A Redis clone written in Go for handling commands like `PING`, `SET` and `GET`.
 
 ---
 
